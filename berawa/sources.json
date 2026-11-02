@@ -1,0 +1,49 @@
+{
+ "schema": "berawa-sources/1",
+ "site": "https://apartamentosrosado.es/",
+ "read_at": "2026-11-02T09:13:00+01:00",
+ "method": "Texto visible de cada pagina leido de la web publica del negocio en la fecha indicada (fetch_sources.py) y guardado en berawa/evidence/source-text.json; las citas del chatbot se comprueban contra ese texto con check_kb.py.",
+ "pages": [
+  {
+   "url": "https://apartamentosrosado.es/",
+   "sha256": "e37c6aede42420011aed5c617eb3854b1e5ea185d5a641202c7af8b76d00c5eb",
+   "chars": 1769
+  },
+  {
+   "url": "https://apartamentosrosado.es/producto/apartamento-huella-romana/",
+   "sha256": "27083c0080c448143cc4d5a02dce43c34f3ddf4350a18385320ad52d66d16098",
+   "chars": 4587
+  },
+  {
+   "url": "https://apartamentosrosado.es/producto/apartamento-luz-de-segovia/",
+   "sha256": "6a455dea52c3aefadcb62d1f4f341bdab109c805fb28d67d028e3b8f694dcbae",
+   "chars": 4698
+  },
+  {
+   "url": "https://apartamentosrosado.es/producto/apartamento-mirador-de-san-lorenzo/",
+   "sha256": "b3c86d8ccf898236c0acdff63c0d9d0411cbc82da851245f9cf15a22b64266ae",
+   "chars": 4695
+  },
+  {
+   "url": "https://apartamentosrosado.es/producto/apartamento-valle-del-eresma/",
+   "sha256": "b0d0a6850c3a8fd65b10907f1427d83e4c9bd823b0cfb96c18f6ce7783c8cc23",
+   "chars": 4767
+  },
+  {
+   "url": "https://apartamentosrosado.es/tarifas-y-normas/",
+   "sha256": "bcbf61a67610af38f742cbb9b38a4a49dea34695dc93d1a8ff81fd9394a6855e",
+   "chars": 4152
+  }
+ ],
+ "other_pages_read": [
+  "https://apartamentosrosado.es/5-consejos-imprescindibles-para-comer-en-segovia-como-un-local/",
+  "https://apartamentosrosado.es/aviso-legal/",
+  "https://apartamentosrosado.es/contacto/",
+  "https://apartamentosrosado.es/el-acueducto-y-mas-alla-curiosidades-escondidas-de-segovia/",
+  "https://apartamentosrosado.es/explora-segovia/",
+  "https://apartamentosrosado.es/los-encantos-ocultos-de-los-pueblos-alrededor-de-segovia/",
+  "https://apartamentosrosado.es/politica-de-cookies/",
+  "https://apartamentosrosado.es/politica-privacidad/",
+  "https://apartamentosrosado.es/reservas/"
+ ]
+}
