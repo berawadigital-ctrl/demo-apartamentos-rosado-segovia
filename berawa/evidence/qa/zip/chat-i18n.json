@@ -1,0 +1,419 @@
+{
+ "url": "http://127.0.0.1:43729/index.html",
+ "langs": {
+  "es": {
+   "textos_iguales_al_es": [],
+   "chat": [
+    {
+     "q": "¿Qué apartamentos tenéis?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Son cuatro apartamentos tipo loft para 2 a 4 personas: Huella Romana y Luz de Segovia (33 m²) y Mirador de San Lorenzo y Valle del Eresma (3"
+    },
+    {
+     "q": "¿Qué tienen los apartamentos?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Tienen Smart TV, wifi gratuito, calefacción y aire acondicionado, cocina completa con menaje, tostadora, cafetera eléctrica Lavazza y hervid"
+    },
+    {
+     "q": "¿Hay desayuno?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "A tu llegada te obsequian con un desayuno con café Lavazza."
+    },
+    {
+     "q": "¿A qué hora es la entrada?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "La entrada es a partir de las 15:00 (avisan si el apartamento está disponible antes) y la salida a las 11:30."
+    },
+    {
+     "q": "¿Admitís mascotas?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "No, no se admiten mascotas. Tampoco se permite fumar ni hacer fiestas."
+    },
+    {
+     "q": "¿Dónde estáis?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Están en Vía Roma, 15, Segovia, en el barrio de San Lorenzo; el Acueducto queda a 5 minutos andando."
+    },
+    {
+     "q": "¿Cómo reservo?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Puedes reservar en su página de reservas (botón Reservar) o preguntar por teléfono o por correo. Este asistente no confirma disponibilidad n"
+    },
+    {
+     "q": "¿Podéis confirmarme disponibilidad para mañana?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Puedes reservar en su página de reservas (botón Reservar) o preguntar por teléfono o por correo. Este asistente no confirma disponibilidad n"
+    },
+    {
+     "q": "¿Puedo cancelar?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Al reservar se abona el 50% del total. Si cancelas antes de 15 días de la llegada se devuelve todo el anticipo; entre 14 y 7 días no se devu"
+    },
+    {
+     "q": "¿Qué ver en Segovia?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "El Acueducto está a 5 minutos andando. En el mismo barrio están la iglesia románica de San Lorenzo, del siglo XII, y la Alameda del Parral, "
+    },
+    {
+     "q": "¿Hay autobús cerca?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "La parada de autobús está a 200 metros, con las líneas 2, 4 y B (Búho)."
+    },
+    {
+     "q": "¿Cuál es vuestro teléfono?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Teléfono: 699 108 395 o 626 326 830. Correo: informacion@apartamentosrosado.es. Consultar por WhatsApp →"
+    },
+    {
+     "q": "¿Tenéis cuna?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Sí, hay cuna bajo petición."
+    },
+    {
+     "q": "¿Cuánto cuesta la noche?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: +34 699 108 395 · informacion@apartamentosrosado.es."
+    },
+    {
+     "q": "¿Tenéis piscina?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: +34 699 108 395 · informacion@apartamentosrosado.es."
+    }
+   ],
+   "chips": [
+    "¿Qué apartamentos tenéis?",
+    "¿A qué hora es la entrada?",
+    "¿Admitís mascotas?",
+    "¿Cómo reservo?"
+   ]
+  },
+  "en": {
+   "textos_iguales_al_es": [
+    "hero_k",
+    "intro_k"
+   ],
+   "chat": [
+    {
+     "q": "Which apartments do you have?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "There are four loft-style apartments for 2 to 4 people: Huella Romana and Luz de Segovia (33 m²) and Mirador de San Lorenzo and Valle del Er"
+    },
+    {
+     "q": "What do the apartments include?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "They have Smart TV, free wifi, heating and air conditioning, a full kitchen with utensils, toaster, Lavazza electric coffee machine and kett"
+    },
+    {
+     "q": "Is there breakfast?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "On arrival they give you a welcome breakfast with Lavazza coffee."
+    },
+    {
+     "q": "What time is check-in?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Check-in is from 15:00 (they let you know if the apartment is ready earlier) and check-out is at 11:30."
+    },
+    {
+     "q": "Do you allow pets?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "No, pets are not allowed. Smoking and parties are not allowed either."
+    },
+    {
+     "q": "Where are you?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "They are at Vía Roma, 15, Segovia, in the San Lorenzo neighbourhood; the Aqueduct is a 5-minute walk away."
+    },
+    {
+     "q": "How do I book?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "You can book on their booking page (Book button) or ask by phone or email. This assistant does not confirm availability or bookings. Ask on "
+    },
+    {
+     "q": "Can you confirm availability for tomorrow?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "You can book on their booking page (Book button) or ask by phone or email. This assistant does not confirm availability or bookings. Ask on "
+    },
+    {
+     "q": "Can I cancel?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "When booking you pay 50% of the total. If you cancel more than 15 days before arrival the full deposit is refunded; between 14 and 7 days th"
+    },
+    {
+     "q": "What to see in Segovia?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "The Aqueduct is a 5-minute walk away. In the same neighbourhood are the Romanesque church of San Lorenzo, from the XII. century, and the Ala"
+    },
+    {
+     "q": "Is there a bus nearby?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "The bus stop is 200 metres away, with lines 2, 4 and B (Búho)."
+    },
+    {
+     "q": "What is your phone number?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Phone: 699 108 395 or 626 326 830. Email: informacion@apartamentosrosado.es. Ask on WhatsApp →"
+    },
+    {
+     "q": "Do you have a cot?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Yes, a cot is available on request."
+    },
+    {
+     "q": "How much is a night?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: +34 699 108 395 · informacion@apartamentosrosado.es."
+    },
+    {
+     "q": "Do you have a pool?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: +34 699 108 395 · informacion@apartamentosrosado.es."
+    }
+   ],
+   "chips": [
+    "Which apartments do you have?",
+    "What time is check-in?",
+    "Do you allow pets?",
+    "How do I book?"
+   ]
+  },
+  "fr": {
+   "textos_iguales_al_es": [
+    "intro_k"
+   ],
+   "chat": [
+    {
+     "q": "Quels appartements avez-vous ?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Il y a quatre appartements de type loft pour 2 à 4 personnes : Huella Romana et Luz de Segovia (33 m²) et Mirador de San Lorenzo et Valle de"
+    },
+    {
+     "q": "Que comprennent les appartements ?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Ils ont Smart TV, wifi gratuit, chauffage et climatisation, cuisine complète avec ustensiles, grille-pain, cafetière électrique Lavazza et b"
+    },
+    {
+     "q": "Y a-t-il un petit-déjeuner ?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "À votre arrivée, ils vous offrent un petit-déjeuner avec café Lavazza."
+    },
+    {
+     "q": "À quelle heure est l’arrivée ?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "L’arrivée se fait à partir de 15:00 (ils préviennent si l’appartement est prêt avant) et le départ à 11:30."
+    },
+    {
+     "q": "Acceptez-vous les animaux ?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Non, les animaux ne sont pas acceptés. Il est aussi interdit de fumer et de faire la fête."
+    },
+    {
+     "q": "Où êtes-vous ?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Ils se trouvent Vía Roma, 15, Ségovie, dans le quartier de San Lorenzo ; l’aqueduc est à 5 minutes à pied."
+    },
+    {
+     "q": "Comment réserver ?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Vous pouvez réserver sur leur page de réservation (bouton Réserver) ou demander par téléphone ou par e-mail. Cet assistant ne confirme ni di"
+    },
+    {
+     "q": "Pouvez-vous me confirmer la disponibilité pour demain ?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Vous pouvez réserver sur leur page de réservation (bouton Réserver) ou demander par téléphone ou par e-mail. Cet assistant ne confirme ni di"
+    },
+    {
+     "q": "Puis-je annuler ?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "À la réservation, 50% du total est versé. En cas d’annulation plus de 15 jours avant l’arrivée, l’acompte est intégralement remboursé ; entr"
+    },
+    {
+     "q": "Que voir à Ségovie ?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "L’aqueduc est à 5 minutes à pied. Dans le même quartier se trouvent l’église romane de San Lorenzo, du XIIe siècle, et l’Alameda del Parral,"
+    },
+    {
+     "q": "Y a-t-il un bus à proximité ?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "L’arrêt de bus est à 200 mètres, avec les lignes 2, 4 et B (Búho)."
+    },
+    {
+     "q": "Quel est votre numéro de téléphone ?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Téléphone : 699 108 395 ou 626 326 830. E-mail : informacion@apartamentosrosado.es. Écrire sur WhatsApp →"
+    },
+    {
+     "q": "Avez-vous un lit bébé ?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Oui, un lit bébé est disponible sur demande."
+    },
+    {
+     "q": "Combien coûte la nuit ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : +34 699 108 395 · informacion@apartamentosrosado.es."
+    },
+    {
+     "q": "Avez-vous une piscine ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : +34 699 108 395 · informacion@apartamentosrosado.es."
+    }
+   ],
+   "chips": [
+    "Quels appartements avez-vous ?",
+    "À quelle heure est l’arrivée ?",
+    "Acceptez-vous les animaux ?",
+    "Comment réserver ?"
+   ]
+  },
+  "de": {
+   "textos_iguales_al_es": [
+    "hero_k",
+    "intro_k"
+   ],
+   "chat": [
+    {
+     "q": "Welche Apartments gibt es?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Es gibt vier Loft-Apartments für 2 bis 4 Personen: Huella Romana und Luz de Segovia (33 m²) sowie Mirador de San Lorenzo und Valle del Eresm"
+    },
+    {
+     "q": "Was bieten die Apartments?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Sie haben Smart-TV, kostenloses WLAN, Heizung und Klimaanlage, eine voll ausgestattete Küche mit Geschirr, Toaster, elektrischer Lavazza-Kaf"
+    },
+    {
+     "q": "Gibt es Frühstück?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Bei Ankunft erhalten Sie ein Willkommensfrühstück mit Lavazza-Kaffee."
+    },
+    {
+     "q": "Wann ist der Check-in?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Check-in ab 15:00 Uhr (Sie werden informiert, falls das Apartment früher frei ist), Check-out um 11:30 Uhr."
+    },
+    {
+     "q": "Sind Haustiere erlaubt?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Nein, Haustiere sind nicht erlaubt. Rauchen und Partys ebenfalls nicht."
+    },
+    {
+     "q": "Wo liegen die Apartments?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Sie liegen an der Vía Roma, 15, Segovia, im Viertel San Lorenzo; das Aquädukt ist 5 Gehminuten entfernt."
+    },
+    {
+     "q": "Wie kann ich buchen?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Sie können auf der Buchungsseite buchen (Schaltfläche Buchen) oder telefonisch bzw. per E-Mail anfragen. Dieser Assistent bestätigt weder Ve"
+    },
+    {
+     "q": "Können Sie mir die Verfügbarkeit für morgen bestätigen?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Sie können auf der Buchungsseite buchen (Schaltfläche Buchen) oder telefonisch bzw. per E-Mail anfragen. Dieser Assistent bestätigt weder Ve"
+    },
+    {
+     "q": "Kann ich stornieren?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Bei der Buchung werden 50% des Gesamtbetrags gezahlt. Bei Stornierung mehr als 15 Tage vor Ankunft wird die Anzahlung voll erstattet; zwisch"
+    },
+    {
+     "q": "Was kann man in Segovia besichtigen?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Das Aquädukt ist 5 Gehminuten entfernt. Im selben Viertel liegen die romanische Kirche San Lorenzo aus dem XII. Jahrhundert und die Alameda "
+    },
+    {
+     "q": "Gibt es einen Bus in der Nähe?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Die Bushaltestelle ist 200 Meter entfernt, mit den Linien 2, 4 und B (Búho)."
+    },
+    {
+     "q": "Wie ist Ihre Telefonnummer?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Telefon: 699 108 395 oder 626 326 830. E-Mail: informacion@apartamentosrosado.es. Per WhatsApp schreiben →"
+    },
+    {
+     "q": "Haben Sie ein Kinderbett?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Ja, ein Kinderbett gibt es auf Anfrage."
+    },
+    {
+     "q": "Was kostet eine Nacht?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Diese Information liegt mir nicht vor. Schreiben oder rufen Sie uns an: +34 699 108 395 · informacion@apartamentosrosado.es."
+    },
+    {
+     "q": "Haben Sie einen Pool?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Diese Information liegt mir nicht vor. Schreiben oder rufen Sie uns an: +34 699 108 395 · informacion@apartamentosrosado.es."
+    }
+   ],
+   "chips": [
+    "Welche Apartments gibt es?",
+    "Wann ist der Check-in?",
+    "Sind Haustiere erlaubt?",
+    "Wie kann ich buchen?"
+   ]
+  }
+ },
+ "fail": [],
+ "ok": true
+}
